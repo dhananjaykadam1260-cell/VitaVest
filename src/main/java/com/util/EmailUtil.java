@@ -9,7 +9,7 @@ public class EmailUtil {
     public static void sendEmail(String toEmail, String subject, String messageText) {
 
         final String fromEmail = "elitehp27@gmail.com"; // sender
-        final String password = "ttje rzis jwae sgxy";    // Gmail App Password
+        final String password = "buqn iolu phik yndq";    
 
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");
