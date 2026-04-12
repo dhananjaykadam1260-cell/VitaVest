@@ -389,7 +389,7 @@ body {
 
         <div class="collapse navbar-collapse d-lg-flex justify-content-end" id="vvNav">
             <div class="d-flex flex-wrap gap-1 align-items-center mt-2 mt-lg-0">
-                <a class="vv-nav-link" href="dashboard.jsp">
+                <a class="vv-nav-link" href="userdashboard.jsp">
                     <i class="bi bi-speedometer2"></i> Dashboard
                 </a>
                 <a class="vv-nav-link" href="new_checkin.jsp">

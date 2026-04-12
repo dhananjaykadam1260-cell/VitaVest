@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <%
-    // Ensure session plan info exists
+    
     if (session.getAttribute("selectedPlanId") == null ||
         session.getAttribute("selectedPlanName") == null ||
         session.getAttribute("selectedPlanDuration") == null ||
@@ -16,7 +16,7 @@
     String price = String.valueOf(session.getAttribute("selectedPlanPrice"));
 
 
-    String upiId = "dhananjaykadam1260-1@oksbi";       
+    String upiId = "9527365004@ybl";       
     String payeeName = "VitaVista";       
 
     
